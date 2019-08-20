@@ -11,9 +11,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/google/gopacket/dumpcommand"
-	"github.com/google/gopacket/examples/util"
-	"github.com/google/gopacket/pcap"
+	"github.com/aruntomar/gopacket/dumpcommand"
+	"github.com/aruntomar/gopacket/examples/util"
+	"github.com/aruntomar/gopacket/pcap"
 	"log"
 	"os"
 	"strings"
